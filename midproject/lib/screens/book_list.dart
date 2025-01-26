@@ -24,7 +24,7 @@ class BoookList extends StatelessWidget {
               price: 1250),
           Book(
               coverImagePath: "assets/images/Harry-Potter.jpg",
-              title: "Harry Potter and  the Deathly Hallows",
+              title: "Harry Potter \nand the Deathly Hallows",
               author: "Coelho Paulo",
               price: 1000),
           Book(
