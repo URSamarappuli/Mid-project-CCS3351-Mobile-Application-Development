@@ -20,12 +20,12 @@ class BoookList extends StatelessWidget {
           Book(
               coverImagePath: "assets/images/rich-dad-poor-dad.jpg",
               title: "Rich Dad Poor Dad",
-              author: "J.K. Rowling",
+              author: "Robert Kiyosaki",
               price: 1250),
           Book(
               coverImagePath: "assets/images/Harry-Potter.jpg",
-              title: "Harry Potter \nand the Deathly Hallows",
-              author: "Coelho Paulo",
+              title: "\tHarry Potter and \nThe Deathly Hallows",
+              author: "J.K. Rowling",
               price: 1000),
           Book(
               coverImagePath: "assets/images/Bel-Canto.jpg",
