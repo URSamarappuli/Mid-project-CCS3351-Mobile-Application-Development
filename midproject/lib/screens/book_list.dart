@@ -23,12 +23,12 @@ class BoookList extends StatelessWidget {
               author: "J.K. Rowling",
               price: 1250),
           Book(
-              coverImagePath: "assets/images/Harry Potter.jpg",
-              title: "Harry Potter and the Deathly Hallows",
+              coverImagePath: "assets/images/Harry-Potter.jpg",
+              title: "Harry Potter and  the Deathly Hallows",
               author: "Coelho Paulo",
               price: 1000),
           Book(
-              coverImagePath: "assets/images/Bel Canto.jpg",
+              coverImagePath: "assets/images/Bel-Canto.jpg",
               title: "Bel Canto",
               author: "Ann Patchett",
               price: 1500),
